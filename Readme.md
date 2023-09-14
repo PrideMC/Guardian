@@ -2,7 +2,7 @@
 This is a copy of production use of anticheat made by our development. 
 We make this open-source to help competitive server to prevent cheating/unfair-advantages.
 
-If you found this project as helpful, you might want to a supporter [here.](https://supporter.mcpride.tk/)
+If you found this project as helpful, you might want to be supporter [here.](https://supporter.mcpride.tk/)
 
 # TODO:
  * Improve KillAura
