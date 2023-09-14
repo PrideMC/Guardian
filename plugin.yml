@@ -1,0 +1,9 @@
+---
+name: Guardian
+version: 0.0.1
+main: PrideMC\Guardian\Loader
+src-namespace-prefix: PrideMC\Guardian
+author: PrideGames Limited
+website: "https://mcpride.tk/"
+description: Guardian Anticheat for PocketMine-MP
+...

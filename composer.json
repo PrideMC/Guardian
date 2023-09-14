@@ -1,0 +1,35 @@
+{
+   "name": "pridemc/pridecore",
+   "description": "A official organization plugin for minecraft bedrock edition server.",
+   "authors": [
+      {
+         "name": "PrideGames Limited",
+         "email": "dev@mcpride.tk"
+      }
+   ],
+   "require": {
+      "pocketmine/pocketmine-mp": "5.4.4",
+      "phpstan/phpstan": "^1.10.0",
+      "phpstan/phpstan-strict-rules": "^1.0",
+      "phpstan/extension-installer": "^1.0"
+   },
+   "require-dev": {
+      "pocketmine/pocketmine-mp": "5.4.4"
+   },
+   "autoload": {
+      "psr-4": {
+         "ExamplePlugin\\": "../src"
+      }
+   },
+   "config": {
+      "allow-plugins": {
+         "phpstan/extension-installer": true
+      }
+   },
+   "repositories": [
+      {
+         "type": "vcs",
+         "url": "https://github.com/pmmp/PocketMine-MP.git"
+      }
+   ]
+}
