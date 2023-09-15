@@ -1,8 +1,13 @@
-# Guardian Anticheat *Fast-development mode*
-This is a copy of production use of anticheat made by our development. 
+# Guardian Anticheat *(Fast-development mode)*
+**`ARCHIVED: No further recieve development updates.`** 
+
+**Guardian Anticheat, a fast-development, lightweight anticheat for PocketMine-MP.**
+
+This is a copy of production use of anticheat made by our server development. Archived due to migrated to the **PrideCore** which is private project.
+
 We make this open-source to help competitive server to prevent cheating/unfair-advantages.
 
-If you found this project as helpful, you might want to be supporter [here.](https://supporter.mcpride.tk/)
+*If you found this project as helpful, you might want to be supporter [here.](https://supporter.mcpride.tk/)*
 
 # TODO:
  * Improve KillAura
